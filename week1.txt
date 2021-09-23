@@ -1,2 +1,6 @@
 day la file week1.txt
+<<<<<<< Updated upstream
 thuoc branch: week1
+=======
+thuoc branch: week1 mà thôi
+>>>>>>> Stashed changes
